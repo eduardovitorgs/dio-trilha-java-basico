@@ -1,7 +1,9 @@
 💳 ContaTerminal
+
 Um projeto Java simples de terminal que simula a criação de uma conta bancária, feito para fins educacionais.
 
 📋 Descrição
+
 O programa coleta informações básicas do usuário via terminal (nome, número da conta e agência), define um saldo inicial e exibe uma mensagem personalizada com os dados informados.
 
 Este projeto é ideal para quem está aprendendo os fundamentos de:
